@@ -32,18 +32,15 @@ Certainly, here are the step-by-step instructions for setting up and running the
    -and wait 2-3 mint after that your website will be published.
    -https://spam-classifier-d15y.onrender.com/
 
-   ![image](https://github.com/MasteriNeuron/Spam-Classifier/assets/127201746/844642ad-2c2d-4ede-88ca-cd19206cf233)
+  <img width="960" alt="Screenshot 2025-04-01 100711" src="https://github.com/user-attachments/assets/ac19e808-267b-4a37-afb9-5833ace89276" />
+
 
    The output:
-   ![image](https://github.com/MasteriNeuron/Spam-Classifier/assets/127201746/df102d55-1e43-482f-b283-c89154a51169)
-
-
    
+<img width="960" alt="Screenshot 2025-04-01 101002" src="https://github.com/user-attachments/assets/17afef94-2614-4a78-8b05-c7acad22d93f" />
 
- 
+
 
 By following these steps, you can set up a virtual environment, install necessary requirements, and run the `app.py` script in the Jupyter Notebook environment. This process helps ensure a clean and isolated development environment for your application.
 
 ## Hurray Enjoy the code
-
-#### Master_iNeuron
