@@ -1,5 +1,4 @@
 nltk
-punkt_tab
 scikit-learn
 Flask
 Flask-Cors
