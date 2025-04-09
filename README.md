@@ -19,7 +19,7 @@ Certainly, here are the step-by-step instructions for setting up and running the
    - pip install jupyter notebook
 
 4. **Run Application.py**:
-   -python appl.py
+   -python app.py
 
 5. **Let's Deploy it at Render.com**:
    -go to this website: https://dashboard.render.com/web
