@@ -21,25 +21,13 @@ Certainly, here are the step-by-step instructions for setting up and running the
 4. **Run Application.py**:
    -python app.py
 
-5. **Let's Deploy it at Render.com**:
-   -go to this website: https://dashboard.render.com/web
-   -then click on new and choose web serivces
-   -choose this :Build and deploy from a Git repository and click on next
-   -then in settings :![image](https://github.com/MasteriNeuron/Spam-Classifier/assets/127201746/7d0493d1-7e0a-46cb-b15e-e3f45f006d1d)
+<img width="960" alt="Screenshot 2025-04-08 211927" src="https://github.com/user-attachments/assets/8b5f6da2-9f7a-4ee8-9f56-71fe67d0b7e2" />
 
+<img width="960" alt="Screenshot 2025-04-08 211748" src="https://github.com/user-attachments/assets/cdbcfa77-a6b4-4d25-82c8-d682f5bd62ee" />
 
-6. **So click on manual Deploy and select deploy with latest commit**
-   -and wait 2-3 mint after that your website will be published.
-   -https://spam-classifier-d15y.onrender.com/
+<img width="960" alt="Screenshot 2025-04-08 211905" src="https://github.com/user-attachments/assets/5d1c50cf-8b88-413d-9f94-409f2a8af853" />
 
-  <img width="960" alt="Screenshot 2025-04-01 100711" src="https://github.com/user-attachments/assets/ac19e808-267b-4a37-afb9-5833ace89276" />
-
-
-   The output:
-   
-<img width="960" alt="Screenshot 2025-04-01 101002" src="https://github.com/user-attachments/assets/17afef94-2614-4a78-8b05-c7acad22d93f" />
-
-
+<img width="960" alt="Screenshot 2025-04-08 211953" src="https://github.com/user-attachments/assets/224448ef-3501-4f49-b064-34a57de78beb" />
 
 By following these steps, you can set up a virtual environment, install necessary requirements, and run the `app.py` script in the Jupyter Notebook environment. This process helps ensure a clean and isolated development environment for your application.
 
